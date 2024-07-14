@@ -11,7 +11,7 @@ anchor_escrow = "6BLPdL9narQPFQsqS7AXuRBRS4VoyKmHHzdwkgnLaAps"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "Devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
